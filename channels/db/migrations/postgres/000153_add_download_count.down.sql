@@ -1,0 +1,1 @@
+ALTER TABLE FileInfo DROP COLUMN IF EXISTS DownloadCount;
